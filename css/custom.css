@@ -7,12 +7,13 @@ header{
     padding: 16px 16px;
 }
 h5.top_headeing {
-    background-color: #fd5f00;
+    background-color: #808080;
     text-align: center;
     padding: 13px 0;
-    border-radius: 41px;
+    border-radius: 0px;
     color: #fff;
     font-weight: bold;
+    margin: 10px;
 }
 .justify{
     text-align: justify;
